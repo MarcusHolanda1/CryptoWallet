@@ -21,7 +21,7 @@ namespace :dev do
       coins = [{
         description: 'Bitcoin',
         acronym: 'BTC',
-        url_image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-nlpbxi%2F&psig=AOvVaw3kisbmH-sL6_H8_VVeWvW2&ust=1620255445095000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPChhoWQsfACFQAAAAAdAAAAABAD',
+        url_image: 'https://clipartart.com/images/bitcooin-clipart-8.png',
         mining_type: MiningType.all.sample
       },
 
